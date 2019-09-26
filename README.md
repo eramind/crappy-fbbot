@@ -7,7 +7,7 @@ I'm still a noob at coding so feel free to make some pull requests.
 
 This bot uses the following modules:
 
-````
+```
 - fbchat
 - axju-jokes
 - wikipedia
@@ -19,4 +19,4 @@ This bot uses the following modules:
 
 _I may be missing some idk_
 
-**googletrans will ip ban on constant requests so use carefully**
+**googletrans will ip ban on large requests so use carefully**
